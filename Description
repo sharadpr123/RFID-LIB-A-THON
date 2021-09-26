@@ -1,5 +1,5 @@
 The idea is to add RFID Library to enable the books, journals or periodicals to be located using the RFID sensors around the selves so that searching a book, journal or periodical/magazine would be easy. As the device is in the vicinity of the required book/journal or the shelf containing it, the signal will be strengthen and it can be located easily.
-On the social benefits of this would be enabling the specially abled people to work easily in the libraries worldwide, as igt would be easy for them to locate the books as a book-keeper also.
+On the social benefits of this would be enabling the specially abled people to work easily in the libraries worldwide, as it would be easy for them to locate the books as a book-keeper also.
 Initially the code of the book can be scanned through the Central Device (PC) or any other node.
 The sensor of the hand held device will scan the RFID of the required book/journal or the shelf containing that book/journal.
 The data stored about the location of the book will guide the user towards that location through a simple map.
