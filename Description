@@ -1,0 +1,9 @@
+The idea is to add RFID Library to enable the books, journals or periodicals to be located using the RFID sensors around the selves so that searching a book, journal or periodical/magazine would be easy. As the device is in the vicinity of the required book/journal or the shelf containing it, the signal will be strengthen and it can be located easily.
+On the social benefits of this would be enabling the specially abled people to work easily in the libraries worldwide, as igt would be easy for them to locate the books as a book-keeper also.
+Initially the code of the book can be scanned through the Central Device (PC) or any other node.
+The sensor of the hand held device will scan the RFID of the required book/journal or the shelf containing that book/journal.
+The data stored about the location of the book will guide the user towards that location through a simple map.
+As the scanner device comes near to the shelf containing that book/journal the scanner alarms (beeps) the bearer so that the tracing is quite easy.
+It is much beneficial to the specially abled people to do the book keeping as it will be easy to re-arrange the book/journal in the desiganted shelf or block.
+The books returned or the journals/periodicals to be rearranged can be done easily by scanning the RFID tag and then putting it back to its designated location.
+A library regarding this must be added in Android to scan the RFID of the book/journal/periodical/magazine and match it with same from a designated shelf or block.
